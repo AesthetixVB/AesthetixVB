@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AesthetixVB also known as MTVB 🎀
+- 👋 Hey, I’m AesthetixVB also known as MTVB 🎀
 
 - Just trying to make stuff.
 
