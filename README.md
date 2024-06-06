@@ -1,11 +1,6 @@
 - 👋 Hey, I’m AesthetixVB also known as MTVB 🎀
 
-- Just trying to make stuff.
-
-- If there's an issue lemme know through email @ vonbargen.business@gmail.com
-- Or insta @aesthetixvb
-
-- Be Kind.
+- Just trying to make stuff don't mind me. Woop de doo.
 
 <!---
 AesthetixVB/AesthetixVB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
