@@ -1,8 +1,7 @@
-- 👋 Hey, I’m AesthetixVB also known as MTVB 🎀
+- 👋 Hello, I’m Maria Trezha Von Bargen also known as AesthetixVB 🎀
 
-- Just trying to make stuff don't mind me. Woop de doo.
+- Currently a double major in Computer Science and Computer Animation.
+- Passionate about Video Game Development and Storytelling.
+- I also make and sell art pieces such as Ceramics, Paintings, and Digital Art, which are showcased on my art account on Instagram @aesthetixvb
 
-<!---
-AesthetixVB/AesthetixVB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I aspire to use all the skills I've gained to become a good Game Developer.
