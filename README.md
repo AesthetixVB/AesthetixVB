@@ -4,7 +4,7 @@
 - Passionate about Video Game Development, Game Architecture, and Game Design.
   Honestly, I love all the steps in the game development pipeline.
   
-- Languages: C#, C++, Javascript, HTML, CSS
+- Languages: C#, C++, C, Javascript, HTML, CSS
 
 - Also interested in learning about Game Engines and Frameworks.
 
