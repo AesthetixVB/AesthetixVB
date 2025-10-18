@@ -8,6 +8,7 @@
 
 - Also interested in learning about Game Engines and Frameworks.
 
-- Like Art? I have an art account on Instagram @aesthetixvb
+- Like Art? I also have an art account on Instagram @aesthetixvb
 
+- Personal Website Coming Soon
   
